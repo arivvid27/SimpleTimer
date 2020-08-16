@@ -13,4 +13,4 @@ This works on python 3
 
 Use this section to tell people how to report a vulnerability.
 
-To report a vulnerability, please report to https://github.com/contact .
+To report a vulnerability, please report to https://github.com/contact or comment on the project.
