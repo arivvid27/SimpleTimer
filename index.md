@@ -7,4 +7,4 @@ You will be able to set a timer for any amount of time.
 3. copy and paste or download code
 4. put in any IDE/ Text editor (like Sublime Text)
 
-##Hope you enjoy!
+## Hope you enjoy!
